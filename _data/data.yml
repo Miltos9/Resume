@@ -52,26 +52,29 @@ education:
           - Software Engineer
           - Computer Systems Engineer
           - Network and Telecommunications Engineer / Administrator
-          - Database Administrator |
+          - Database Administrator 
+           source: "#https://di.ionio.gr/en/"
+ 
+ projects:
+    title: Github Project
+    intro: Uni Project made for HCI subject.
+    assignments:
+      - title: MILTOS9 HCI
+        link: "#https://github.com/Miltos9/hci/tree/2015143/projects/2015143"
+        tagline:
           
 
    skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & C++
         level: 50%
 
       - name: Javascript & jQuery
         level: 50%
 
-      - name: Angular
-        level: 50%
-
-      - name: HTML5 & CSS
-        level: 50%
-
-      - name: Ruby on Rails
+       - name: HTML5 & CSS
         level: 50%
 
       - name: Sketch & Photoshop
