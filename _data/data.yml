@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
- sidebar:
+sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -16,8 +16,6 @@
     phone: +30 6983802783
     website:  #do not add http://
     github: miltos9
-    
-    
 
     languages:
       - idiom: Greek
@@ -63,8 +61,6 @@ projects:
       - title: "MILTOS9 HCI"
         link: https://github.com/Miltos9/hci/tree/2015143/projects/2015143"
         tagline: "End-up:Success"
-
-
 
 skills:
     title: Skills &amp; Proficiency
