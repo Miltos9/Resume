@@ -58,7 +58,7 @@ education:
       
 projects:
     title: Github Project
-    intro: > Uni Project made for HCI subject.
+    intro: Uni Project made for HCI subject.
     assignments:
       - title: MILTOS9 HCI
         link: "#https://github.com/Miltos9/hci/tree/2015143/projects/2015143"
