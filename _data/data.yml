@@ -2,20 +2,21 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-  sidebar:
+sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Georgios Miltos
     tagline: Student
-    avatar: profile-pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile-pic.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p15milt@ionio.gr
-    phone: 6983802783
+    phone: +30 6983802783
     website:  #do not add http://
-    github: Miltos9
+    github: miltos9
+    
     
 
     languages:
@@ -25,7 +26,7 @@
       - idiom: English
         level: Professional
 
-     
+
     interests:
       - item: Hiking
         link:
@@ -33,17 +34,17 @@
       - item: Football
         link:
 
-      - item: Bartender
+      - item: Programming
         link:
 
 career-profile:
-       title: Profile
+    title: Profile
     summary: |
-      Undergraduate student.
-
+      Undergraduate student
+      
 education:
     - degree: Computer Science
-      university: Ionian University
+      university: Ionian Universrity
       time: 2015 - 2021
       details: |
         The graduate of the Department of Informatics has the scientific and technical expertise to work as an IT
@@ -53,31 +54,35 @@ education:
           - Computer Systems Engineer
           - Network and Telecommunications Engineer / Administrator
           - Database Administrator 
-           source: "#https://di.ionio.gr/en/"
- 
- projects:
+          SOURCE : https://di.ionio.gr    
+      
+projects:
     title: Github Project
-    intro: Uni Project made for HCI subject.
+    intro: > Uni Project made for HCI subject.
     assignments:
       - title: MILTOS9 HCI
         link: "#https://github.com/Miltos9/hci/tree/2015143/projects/2015143"
-        tagline:
-          
+        tagline: "End-up:Success"
 
-   skills:
+
+
+skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & C++
+      - name: Python
         level: 50%
 
-      - name: Javascript & jQuery
+      - name: Javascript 
         level: 50%
 
-       - name: HTML5 & CSS
+      - name: HTML5 & CSS
+        level: 50%
+       
+      - name: C++
         level: 50%
 
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 90%
 
 footer: >
