@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -37,6 +37,9 @@ sidebar:
 
       - item: Programming
         link:
+  
+      - item: Bartender
+        link:
 
 career-profile:
     title: Profile
@@ -56,28 +59,12 @@ education:
           - Network and Telecommunications Engineer / Administrator
           - Database Administrator
     
-experiences:
-    - role: 
-      time: 2015 - 2021
-      company: Ionian Universrity
-      details: |
-        The graduate of the Department of Informatics has the scientific and technical expertise to work as an IT
-        professional, either as self-employed, or as an executive in the private or public sector.
-        More specifically he can be employed as:
-          - Software Engineer
-          - Computer Systems Engineer
-          - Network and Telecommunications Engineer / Administrator
-          - Database Administrator 
-    - role: 
-      time:
-      company: 
-      details: 
           
 projects:
     title: GitHub Project
     intro: Uni Project made for HCI subject.
     assignments:
-      - title: MILTOS9 HCI
+      - title: MILTOS9 Project
         link: "https://github.com/Miltos9/hci/tree/2015143/projects/2015143"
         tagline: "End-up:Success"
 
