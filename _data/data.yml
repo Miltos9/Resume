@@ -14,8 +14,11 @@ sidebar:
     # Sidebar links
     email: p15milt@ionio.gr
     phone: +30 6983802783
-    website:  #do not add http://
-    github: miltos9
+    website: #do not add http://
+    linkedin: 
+    github: Miltos9
+    twitter: 
+    
 
     languages:
       - idiom: Greek
@@ -38,7 +41,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Undergraduate student
+      Undergraduate student.
       
 education:
     - degree: Computer Science
@@ -51,16 +54,35 @@ education:
           - Software Engineer
           - Computer Systems Engineer
           - Network and Telecommunications Engineer / Administrator
-          - Database Administrator 
-          SOURCE : https://di.ionio.gr    
-      
+          - Database Administrator
+    
+experiences:
+    - role: 
+      time: 
+      company: 
+      details: 
+    - role: 
+      time:
+      company: 
+      details: 
+          
 projects:
-    title: Github Project
+    title: GitHub Project
     intro: Uni Project made for HCI subject.
     assignments:
-      - title: "MILTOS9 HCI"
-        link: https://github.com/Miltos9/hci/tree/2015143/projects/2015143"
+      - title: MILTOS9 HCI
+        link: "https://github.com/Miltos9/hci/tree/2015143/projects/2015143"
         tagline: "End-up:Success"
+
+publications:
+    title: 
+    intro: 
+    papers:
+      - title: 
+        link: "#"
+        authors: 
+        conference: 
+
 
 skills:
     title: Skills &amp; Proficiency
